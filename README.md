@@ -1,5 +1,5 @@
 # Docker information script
-Python script to show running docker containers with corresponding ip addresses
+Python script to show running docker containers information, including IP addresses
 
 # Why
 I'm tired of this:
