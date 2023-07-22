@@ -3,6 +3,7 @@ Python script to show running docker containers with corresponding ip addresses
 
 # Why
 I'm tired of this:
+
 <code>docker inspect -f '{{.Name}} - {{range .NetworkSettings.Networks}}{{.IPAddress}}{{end}}' CONTAINER_ID</code>
 
 So I've created python script that shows all the data same if you type
