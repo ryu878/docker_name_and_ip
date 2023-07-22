@@ -19,6 +19,7 @@ and also it shows the ip address as well
   <code>source .docker/bin/activate</code>
 3. Install the Docker SDK for Python
    <code>pip install docker</code>
+4. Run with command <code>python3 check_docker_with_ip.py</code>
 
 
 ## Contacts
