@@ -21,14 +21,7 @@ So I've created python script that displays the same output as <code>docker ps</
 
 
 ## Contacts
-I develop trading bots of any complexity, dashboards and indicators for crypto exchanges, forex and stocks.
-To contact me:
-
-Discord: https://discord.gg/zSw58e9Uvf
-
-🐀 Join Bybit: https://www.bybit.com/invite?ref=P11NJW
-
-😎 Register on BingX and get a **20% discount** on fees: https://bingx.com/invite/HAJ8YQQAG/
+Telegram: https://t.me/vi8ilante
 
 ## VPS for bots and scripts
 I prefer using DigitalOcean. 
