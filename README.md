@@ -21,7 +21,7 @@ So I've created python script that displays the same output as <code>docker ps</
 
 
 ## Contacts
-Telegram: https://t.me/vi8ilante
+Telegram: https://t.me/ryu8777
 
 ## VPS for bots and scripts
 I prefer using DigitalOcean. 
